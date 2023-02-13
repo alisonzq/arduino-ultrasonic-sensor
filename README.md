@@ -1,3 +1,3 @@
 # arduino-ultrasonic-sensor
 
-csv -> graphs in excel
+position, time, speed
